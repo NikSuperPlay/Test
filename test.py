@@ -10,3 +10,6 @@ def test3(str):
 def test228g(str):
     string=input(str)
     return string
+def test1337(str):
+    string=input(str)
+    return string
