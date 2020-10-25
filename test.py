@@ -7,3 +7,6 @@ def test2(str):
 def test3(str):
     string=input(str)
     return string
+def test228g(str):
+    string=input(str)
+    return string
