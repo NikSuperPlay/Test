@@ -4,3 +4,6 @@ def test1(str):
 def test2(str):
     string=input(str)
     return string
+def test3(str):
+    string=input(str)
+    return string
